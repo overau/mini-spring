@@ -7,6 +7,10 @@
     <groupId>com.sanfen</groupId>
     <artifactId>mini-spring</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>spring-step-01</module>
+    </modules>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
